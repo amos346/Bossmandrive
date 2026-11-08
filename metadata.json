@@ -1,0 +1,6 @@
+{
+  "name": "BossmanDrive",
+  "description": "Premium Nigerian luxury car dealership offering brand new, Tokunbo, and certified pre-owned luxury vehicles in Lagos and Abuja with verified customs papers and direct WhatsApp concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
